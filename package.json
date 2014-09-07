@@ -1,0 +1,24 @@
+{
+  "name": "vinylify",
+  "version": "0.0.1",
+  "description": "Return a vinyl buffer from browserify bundle",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/litek/vinylify.git"
+  },
+  "keywords": [
+    "browserify",
+    "gulp"
+  ],
+  "author": "Ketil Albertsen <ketil@syscom.as>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/litek/vinylify/issues"
+  },
+  "homepage": "https://github.com/litek/vinylify",
+  "dependencies": {
+    "vinyl-buffer": "0.0.0",
+    "vinyl-source-stream": "^0.1.1"
+  }
+}
